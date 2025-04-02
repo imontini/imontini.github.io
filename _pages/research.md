@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
-My current projects and working papers include 
+Here is a list of my publications, working papers, and current projects: 
 
-# *peer-reviewed publications*
+# Peer-Reviewed Publications
 
 ## What Do We Know about Power Sharing after 50 Years?
 
@@ -15,11 +15,11 @@ My current projects and working papers include
 
 The power-sharing literature lacks a review that synthesizes its findings, despite spanning over 50 years since Arend Lijphart published his seminal 1969 article ‘Consociational Democracy’. This review article contributes to the literature by introducing and analysing an original dataset, the Power Sharing Articles Dataset, which extracts data on 23 variables from 373 academic articles published between 1969 and 2018. The power-sharing literature, our analysis shows, has witnessed a boom in publications in the last two decades, more than the average publication rate in the social sciences. This review offers a synthesis of how power sharing is theorized, operationalized and studied. We demonstrate that power sharing has generally positive effects, regardless of institutional set-up, post-conflict transitional character and world region. Furthermore, we highlight structural factors that are mostly associated with the success of power sharing. Finally, the review develops a research agenda to guide future scholarly work on power sharing.
 
-[Government and Opposition](https://doi.org/10.1017/gov.2022.26)
+[Government and Opposition](https://doi.org/10.1017/gov.2022.26) Volume 58, Issue 4, October 2023, pp. 899 - 920.
 
 
 
-# *working papers*
+# Working Papers
 
 ## Coercion Gaps and State-Sponsored Organized Crime Expansion: Evidence from Rio de Janeiro’s Militias
 
@@ -55,7 +55,7 @@ In most low- and middle-income countries, municipalities do not collect enough t
 ***Working Paper***
 
 
-# *research in progress*
+#  Research in Progress
 
 ## Under the Rader: Estimating Underreporting of Gender-Based Violence to the Police
 
