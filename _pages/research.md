@@ -45,7 +45,7 @@ This study examines how a single variation in electoral rules influences politic
 *Under Review*
 
 
-## To Impeach Or Not To Impeach: Elite Polarization, Mass Mobilization, and Corruption Scandals
+## Pork Politics and Municipality Size: Evidence from Brazil
 
 *With Alison E. Post*
 
