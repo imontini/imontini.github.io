@@ -8,12 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "CV"
+  - title: "cv"
     url: /files/cv_montini.pdf
 
-  - title: "Research"
-    url: /talks/    
+  - title: "research"
+    url: /research/    
 
-  - title: "Teaching"
+  - title: "teaching"
     url: /teaching/    
     
