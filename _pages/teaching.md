@@ -5,15 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- PS 231B:  Quantitative Analysis in Political Research – Causal Inference (Graduate)
+I am incredibly passionate about teaching. As a graduate student, I had the privilege to teach a variety of graduate and undergraduate courses at UC Berkeley. In 2024, I was awarded the *Outstanding Graduate Student Instructor* Award in the Political Science Department. 
 
-  - *With Thad Dunning*
+- PS 231B:  Quantitative Analysis in Political Research – Causal Inference (Graduate, Spring 2025)
 
-- PS 148A: Latin American Politics (Undergraduate)
+  - *With Professor Thad Dunning*
 
-  - *With Alison E. Post*
+- PS 148A: Latin American Politics (Undergraduate, Fall 2024)
 
-- PS 147G: The Comparative Politcs of the Welfare State
+  - *With Professor Alison E. Post*
 
-  - *With Jonah Levy*
-  -  *Outstanding Graduate Student Award, 2024*
+- PS 147G: The Comparative Politics of the Welfare State (Undergraduate, Fall 2023)
+
+  - *With Professor Jonah Levy*
