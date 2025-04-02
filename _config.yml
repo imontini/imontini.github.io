@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "about me"
+title                    : "Isabella C. Montini"
 title_separator          : "-"
 name                     : &name "Isabella C. Montini"
 description              : &description "personal description"
