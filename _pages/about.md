@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Olá! I am a PhD Student at the Department of Political Science and a Research Associate at the Center for the Politics of Development at the University of California, Berkeley. My work spans comparative politics and political economy, with a particular focus on welfare provision by state and non-state actors and political violence. 
+Olá! I am a PhD Candidate at the Department of Political Science and a Research Associate at the Center for the Politics of Development at the University of California, Berkeley. My work spans comparative politics and political economy, with a particular focus on welfare provision by state and non-state actors and political violence. 
 
 My dissertation project examines claim-making behavior in urban peripheries where state and criminal actors compete for authority. Specifically, I am interested in how residents of Brazilian favelas navigate fragmented governance and the strategies they use to access various goods and services. In my research, I employ a variety of methods, ranging from qualitative interviews and participatory methods to design-based inference and survey experiments. 
 
