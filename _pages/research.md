@@ -29,6 +29,15 @@ Milícias are mafia-style organizations, often composed of current and former st
 *R&R at Latin American Politics and Society*
 
 
+## Pork Politics and Municipality Size: Evidence from Brazil
+
+*With Alison E. Post*
+
+In most low- and middle-income countries, municipalities do not collect sufficient tax revenue to fund critical water, health, education, and transportation infrastructure. As a result, most depend on discretionary transfers from higher tiers of government to meet infrastructure needs. What types of municipalities are better positioned to secure these funds? Scholarship on distributive politics emphasizes that funds typically flow to jurisdictions with core voters (controlled by aligned politicians) or those with significant numbers of swing voters. In this project, we emphasize an alternative predictor: municipality population size. Mayors and municipal councilors in smaller municipalities have less own-source revenue available for infrastructure projects, so they have stronger incentives to lobby for funds. Such infrastructure projects are also more likely to generate political returns for local politicians and their benefactors at higher tiers of government in smaller cities because the projects are more visible and less costly, and both credit-claiming and credit-attribution efforts are, therefore, more effective. We test this argument using an original dataset of \~ 65,000 project-specific amendments national deputies can add to Brazilian budget legislation for 2015-2023. We find an inverse relationship between municipal population size, per capita spending, and per capita project counts, a relationship that is particularly strong for infrastructure projects. Deputies are also more likely to steer projects to mayors (rather than NGOs) in smaller municipalities, particularly to mayors of the same political party. Meanwhile, budget amendment spending yields deputies greater vote increases per Real spent in smaller municipalities. Yet quantity is not the same as quality: deputies award simpler, cheaper projects to smaller municipalities out of concerns regarding state capacity, potentially contributing to infrastructural disparities.
+
+[Working Paper] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5254477)
+
+
 ## To Impeach Or Not To Impeach: Elite Polarization, Mass Mobilization, and Corruption Scandals
 
 *With Mahmoud Farag and Philipp Schemm*
@@ -43,15 +52,6 @@ Presidential impeachment is one of the greatest manifestations of accountability
 This study examines how a single variation in electoral rules influences politicians' investment in public and targeted goods. Using a unique threshold policy introduced in Brazil in 1988, I employ a regression discontinuity design to estimate the effect of a two-round election on the distribution and quality of targeted and public goods. The results show that single-round elections are associated with greater efforts to allocate targeted goods relative to single-round elections, but I only find marginal increases in the quality of public goods delivery by mayors. Counter to previous studies, it is unclear whether two-round elections are associated with greater effort to deliver public goods. The findings suggest that previous work has focused on too narrow a set of indicators to assess the effect of this particular type of electoral rule, overlooking its impact on targeted goods provision.
 
 *Under Review*
-
-
-## Pork Politics and Municipality Size: Evidence from Brazil
-
-*With Alison E. Post*
-
-In most low- and middle-income countries, municipalities do not collect sufficient tax revenue to fund critical water, health, education, and transportation infrastructure. As a result, most depend on discretionary transfers from higher tiers of government to meet infrastructure needs. What types of municipalities are better positioned to secure these funds? Scholarship on distributive politics emphasizes that funds typically flow to jurisdictions with core voters (controlled by aligned politicians) or those with significant numbers of swing voters. In this project, we emphasize an alternative predictor: municipality population size. Mayors and municipal councilors in smaller municipalities have less own-source revenue available for infrastructure projects, so they have stronger incentives to lobby for funds. Such infrastructure projects are also more likely to generate political returns for local politicians and their benefactors at higher tiers of government in smaller cities because the projects are more visible and less costly, and both credit-claiming and credit-attribution efforts are, therefore, more effective. We test this argument using an original dataset of \~ 65,000 project-specific amendments national deputies can add to Brazilian budget legislation for 2015-2023. We find an inverse relationship between municipal population size, per capita spending, and per capita project counts, a relationship that is particularly strong for infrastructure projects. Deputies are also more likely to steer projects to mayors (rather than NGOs) in smaller municipalities, particularly to mayors of the same political party. Meanwhile, budget amendment spending yields deputies greater vote increases per Real spent in smaller municipalities. Yet quantity is not the same as quality: deputies award simpler, cheaper projects to smaller municipalities out of concerns regarding state capacity, potentially contributing to infrastructural disparities.
-
-*[Working Paper]* (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5254477)
 
 
 #  Research in Progress
