@@ -65,3 +65,11 @@ Gender-based violence (GBV) remains underreported to law enforcement, obscuring 
 Our analysis offers three main insights. First, we estimate GBV underreporting to the police. We use a novel bounding exercise that contrasts police and anonymous reporting data, which highlights the specific spatial and criminal characteristics that make types of GBV particularly vulnerable to underreporting. Second, we identify key predictors of GBV. We conduct a large-N analysis of granular predictors of violence against women over time, including socioeconomic conditions, general levels of violence, and other crimes that frequently co-occur with GBV, such as drug trafficking and corruption of minors. Third, we further identify interactive effects that exacerbate GBV. We focus on areas with high levels of police violence, violent crime, and criminal governance, shedding light on how GBV is reported in the most vulnerable areas, where state presence and governance are most contested or inadequate. We substantiate this with qualitative evidence about women in marginalized regions (like Brazil’s favelas) who often rely on social services rather than law enforcement to seek help. This paper’s contribution is twofold: first, we systematically document not only the existence of GBV reporting gaps to the police but also that these gaps are wider in marginalized communities. Then, we show the observable risk factors that could be used by policymakers to mitigate these gaps.
 
 
+## The Paradox of Protection: Patterns of Gender-Based Violence in Gang-Controlled Areas
+
+*With Johanna Reyes Ortega*
+
+This project assesses the impact of specialized judicial institutions on women's claim-making behavior across two major metropolitan areas in Latin America: the states of Mexico and São Paulo, both marked by strong criminal group presence and uneven state provision. Using a survey experiment informed by extensive fieldwork, the research examines how women in these settings choose to report gendered crimes, whether to formal authorities (e.g., police), criminal organizations, or non-governmental organizations, in municipalities with varying levels of state presence and judicial specialization.
+
+
+
