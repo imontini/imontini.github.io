@@ -15,7 +15,7 @@ Here is a list of my publications, working papers, and current projects:
 
 Milícias are mafia-style organizations, often composed of current and former state agents, that have rapidly expanded in areas with limited state presence and weak legal oversight. In Rio de Janeiro, their territorial control is not maintained by coercion alone, but also through strategic political alliances. This paper theorizes and tests a mechanism linking milícia expansion to electoral politics: milícias deliver concentrated electoral support to specific politicians, who in return shield their operations by influencing bureaucratic appointments and law enforcement priorities. Using original geospatial and electoral data, we show that milícia entry into a new area increases electoral concentration and disproportionately benefits milícia-aligned candidates in adjacent territories. We further demonstrate that this electoral capital is converted into political power through key bureaucratic appointments that facilitate further expansion and institutional impunity. Our findings support a theoretical framework in which elections reinforce, rather than constrain, criminal governance in democratic settings.
 
-*Forthcoming at Latin American Politics and Society* [Accepted Version](https://drive.google.com/file/d/1DIdhGa5xUpB4qM6awwsmhR8gVesD95qV/view?usp=sharing]
+*Forthcoming* at Latin American Politics and Society [Accepted Version](https://drive.google.com/file/d/1DIdhGa5xUpB4qM6awwsmhR8gVesD95qV/view?usp=sharing]
 
 
 ## What Do We Know about Power Sharing after 50 Years?
