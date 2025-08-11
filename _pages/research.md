@@ -37,7 +37,11 @@ In most low- and middle-income countries, municipalities do not collect sufficie
 
 [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5254477)
 
-In the news: [Folha de S.Paulo](https://www1.folha.uol.com.br/colunas/lara-mesquita/2025/06/quem-responde-pelo-uso-do-dinheiro-publico.shtml?pwgt=k76kkylo4lrwww02kl10duhgor4n8djy4kw7w59ldzi1uigy&utm_source=whatsapp&utm_medium=social&utm_campaign=compwagift)
+**In the News** 
+
+- **[Folha de S.Paulo](https://www1.folha.uol.com.br/colunas/lara-mesquita/2025/06/quem-responde-pelo-uso-do-dinheiro-publico.shtml?pwgt=k76kkylo4lrwww02kl10duhgor4n8djy4kw7w59ldzi1uigy&utm_source=whatsapp&utm_medium=social&utm_campaign=compwagift)** — *Quem responde pelo uso do dinheiro público?* (June 2025)
+
+- **[O Estado de S. Paulo](https://www.estadao.com.br/politica/deputados-ignoram-obras-grandes-e-dedicam-emendas-para-projetos-simples-e-de-impacto-limitado/)** — *Deputados ignoram obras grandes e dedicam emendas para projetos simples e de impacto limitado* (August 2025)
 
 
 ## To Impeach Or Not To Impeach: Elite Polarization, Mass Mobilization, and Corruption Scandals
