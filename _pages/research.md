@@ -20,7 +20,7 @@ Milícias are mafia-style organizations, often composed of current and former st
 
 ## What Do We Know about Power Sharing after 50 Years?
 
-*With Mahmoud Farag, Hae Ran Jung, Juliette Bourdeau de Fontenay, and Satveer Ladhar*
+*With Mahmoud Farag, Hae Ran Jung, Juliette Bourdeau de Fontenay, and Satveer Ladhar* (pre-doctoral)
 
 The power-sharing literature lacks a review that synthesizes its findings, despite spanning over 50 years since Arend Lijphart published his seminal 1969 article ‘Consociational Democracy’. This review article contributes to the literature by introducing and analysing an original dataset, the Power Sharing Articles Dataset, which extracts data on 23 variables from 373 academic articles published between 1969 and 2018. The power-sharing literature, our analysis shows, has witnessed a boom in publications in the last two decades, more than the average publication rate in the social sciences. This review offers a synthesis of how power sharing is theorized, operationalized, and studied. We demonstrate that power-sharing has generally positive effects, regardless of institutional set-up, post-conflict transitional character, and world region. Furthermore, we highlight structural factors that are mostly associated with the success of power sharing. Finally, the review develops a research agenda to guide future scholarly work on power-sharing.
 
@@ -44,13 +44,11 @@ State presence is often considered weakest in a country’s periphery. In contra
 - **[O Estado de S. Paulo](https://www.estadao.com.br/politica/deputados-ignoram-obras-grandes-e-dedicam-emendas-para-projetos-simples-e-de-impacto-limitado/)** — *Deputados ignoram obras grandes e dedicam emendas para projetos simples e de impacto limitado* (August 2025)
 
 
-## To Impeach Or Not To Impeach: Elite Polarization, Mass Mobilization, and Corruption Scandals
+## Under the Rader: Estimating Underreporting of Gender-Based Violence to the Police
 
-*With Mahmoud Farag and Philipp Schemm*
+*With Jessie Trudeau*
 
-Presidential impeachment has traditionally been seen as a clear manifestation of accountability. Recently, however, the impeachment of some presidents has led to public backlash, with some being regarded as “legislative coups.” In examining the determinants of impeachment, studies have highlighted the role played by corruption scandals, mass mobilization, and the absence of a legislative shield. We contribute to this literature by highlighting the importance of affective and ideological polarization for presidential impeachment. We theorize impeachment as a multi-hurdle process and focus on examining the determinants of overcoming two primary hurdles: a lower house vote (the first hurdle) and removal from office (the second hurdle). Using 44 successful and failed impeachments, we employ crisp-set qualitative comparative analysis (QCA) to examine this issue. The analysis supports our hypotheses, highlighting that many cases of impeachment cannot be explained unless polarization is taken into account. In particular, our analysis illustrates three types of impeachment: polarized impeachment, scandalized impeachment, and mobilized impeachment. The results withstand a wide range of robustness tests, including sensitivity ranges, consistency thresholds, fit-oriented robustness, and cluster analysis. Given the rise of affective polarization worldwide, presidential impeachment may be increasingly weaponized by polarized elites.
-
-*R&R at the European Political Science Review*
+Gender-based violence (GBV) remains underreported to law enforcement, obscuring its true scale and weakening institutional responses. Existing research emphasizes individual-level barriers to reporting, but overlooks how micro-level factors related to violence shape reporting behavior. We argue that violence affects GBV reporting to the police through three mechanisms, the *mechanical*, *resource* and *police misconduct* channels. We explain how interactions between these channels can frustrate efforts to accurately measure the true incidence of GBV, and we argue that the *police misconduct* mechanism can shift reporting away from the police to 3rd party channels. We analyze divergent patterns in GBV underreporting in Rio de Janeiro, Brazil, linking over 3 million calls to an anonymous third party channel, *Disque Denúncia*, with police records and precinct-level data. Our analyses demonstrate (1) a systematic relationship between local violence and GBV reporting to the police, (2) nuanced evidence showing that when police are perpetrators of local violence, survivors are more likely to report GBV to third parties than the police, and (3) causal evidence demonstrating how police and third party channels are complements rather than substitutes, especially in contexts with high levels of police misconduct. We study an exogenous decrease in access to *Disque Denúncia* and find that GBV reports to them decreased by 55\%, but fewer than half of survivors called the police in lieu of calling *Disque Denúncia*. We conclude with a discussion of policy implications for measuring and handling reporting for both law enforcement agencies and independent third parties. 
 
 
 ## Electoral Rules and The Provision of Public versus Targeted Goods: Evidence from Mayoral Elections in Brazil 
@@ -59,17 +57,15 @@ This study examines how a single variation in electoral rules influences politic
 
 *Working paper available upon request*
 
+## To Impeach Or Not To Impeach: Elite Polarization, Mass Mobilization, and Corruption Scandals
+
+*With Mahmoud Farag and Philipp Schemm*
+
+Presidential impeachment has traditionally been seen as a clear manifestation of accountability. Recently, however, the impeachment of some presidents has led to public backlash, with some being regarded as “legislative coups.” In examining the determinants of impeachment, studies have highlighted the role played by corruption scandals, mass mobilization, and the absence of a legislative shield. We contribute to this literature by highlighting the importance of affective and ideological polarization for presidential impeachment. We theorize impeachment as a multi-hurdle process and focus on examining the determinants of overcoming two primary hurdles: a lower house vote (the first hurdle) and removal from office (the second hurdle). Using 44 successful and failed impeachments, we employ crisp-set qualitative comparative analysis (QCA) to examine this issue. The analysis supports our hypotheses, highlighting that many cases of impeachment cannot be explained unless polarization is taken into account. In particular, our analysis illustrates three types of impeachment: polarized impeachment, scandalized impeachment, and mobilized impeachment. The results withstand a wide range of robustness tests, including sensitivity ranges, consistency thresholds, fit-oriented robustness, and cluster analysis. Given the rise of affective polarization worldwide, presidential impeachment may be increasingly weaponized by polarized elites.
+
+*R&R at the European Political Science Review*
 
 #  Research in Progress
-
-## Under the Rader: Estimating Underreporting of Gender-Based Violence to the Police
-
-*With Jessie Trudeau*
-
-Gender-based violence (GBV) remains underreported to law enforcement, obscuring the true prevalence of violence against women and limiting institutional responses. While existing research often attributes underreporting to personal concerns, the role of broader institutional factors is less understood. Where and why are victims more likely to report gender-based violence to the police? Under what conditions can third-party reporting channels mitigate the underreporting of GBV to the police? We study gender-based violence in Rio de Janeiro, Brazil, analyzing 3 million calls for help to an independent, anonymous tip line between 2008 and 2023. We geolocate and merge these calls with police records and precinct-level socioeconomic data to analyze divergent temporal and spatial reporting patterns, contrasting the frequency of gender-based violence reported to 1) the police or 2) the anonymous helpline.
-
-Our analysis offers three main insights. First, we estimate GBV underreporting to the police. We use a novel bounding exercise that contrasts police and anonymous reporting data, which highlights the specific spatial and criminal characteristics that make types of GBV particularly vulnerable to underreporting. Second, we identify key predictors of GBV. We conduct a large-N analysis of granular predictors of violence against women over time, including socioeconomic conditions, general levels of violence, and other crimes that frequently co-occur with GBV, such as drug trafficking and corruption of minors. Third, we further identify interactive effects that exacerbate GBV. We focus on areas with high levels of police violence, violent crime, and criminal governance, shedding light on how GBV is reported in the most vulnerable areas, where state presence and governance are most contested or inadequate. We substantiate this with qualitative evidence about women in marginalized regions (like Brazil’s favelas) who often rely on social services rather than law enforcement to seek help. This paper’s contribution is twofold: first, we systematically document not only the existence of GBV reporting gaps to the police but also that these gaps are wider in marginalized communities. Then, we show the observable risk factors that could be used by policymakers to mitigate these gaps.
-
 
 ## The Paradox of Protection: Patterns of Gender-Based Violence in Gang-Controlled Areas
 
