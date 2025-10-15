@@ -4,9 +4,10 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-#  Gallery
 
-A collection of photos from my fieldwork, research travels, and talks.
+<p style="text-align: center;">
+Here is a collection collection of photos from my fieldwork, research travels, and talks.
+</p>
 
 <div class="photo-gallery">
   {% for image in site.static_files %}
