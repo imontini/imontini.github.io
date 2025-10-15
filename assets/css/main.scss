@@ -42,9 +42,10 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-// ----------------------------
-// Custom gallery styles
-// ----------------------------
+/* ----------------------------
+   Custom gallery styles
+---------------------------- */
+
 .photo-gallery {
   display: flex;
   flex-wrap: wrap;
@@ -54,11 +55,13 @@
 }
 
 .photo-item {
-  flex: 0 1 300px; /* cada imagem terá cerca de 300px de largura */
-  height: 200px;   /* altura fixa para dar uniformidade */
+  position: relative;
+  flex: 0 1 280px;  /* thumbnail width */
+  height: 200px;    /* thumbnail height */
   overflow: hidden;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  cursor: pointer;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
@@ -66,15 +69,23 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 0.4s ease;
-  display: block;
+  transition: transform 0.5s ease, object-fit 0.5s ease, top 0.5s ease;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* On hover: image zooms out to show full photo */
+.photo-item:hover img {
+  object-fit: contain;
+  background-color: #000;  /* black background behind tall/narrow images */
+  transform: scale(1.2);
+  top: 50%;
+  transform: translateY(-50%) scale(1.2);
 }
 
 .photo-item:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
-}
-
-.photo-item:hover img {
-  transform: scale(1.05);
+  z-index: 10;
+  transform: translateY(-4px) scale(1.05);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
