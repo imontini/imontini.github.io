@@ -11,7 +11,7 @@ Here is a list of my publications, working papers, and current projects.
 
 ### When Elections Empower Crime: Political Protection and Milícia Expansion in Rio de Janeiro  
 **With Bruno Pantaleão**  
-*Latin American Politics and Society* (FirstView).  
+Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Political Protection and Milícia Expansion in Rio de Janeiro*. **Latin American Politics and Society**, 67(4), 1–23. https://doi.org/10.1017/lap.2025.10026  
 [Paper](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/74C5B7EDC5DBF1D85927EB90EB822CC0/S1531426X25100265a.pdf/when_elections_empower_crime_political_protection_and_milicia_expansion_in_rio_de_janeiro.pdf)
 
 <details class="abstract">
@@ -64,4 +64,67 @@ Here is a list of my publications, working papers, and current projects.
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
   <p>
-  Gender-based violence (GBV) is chronically underreported to law enforcement. Existing research emphasizes individual-level factors, but overlooks how broader police behavior shapes reporting. We argue that police violence has a dual effect by (1) discouraging reporting GBV to the police, while (2) shifting reporting towards third-party channels, when available. We link police records with anonymous call logs to an independent hotline to estimate the relationship between police violence and GBV reporting in Rio de Janeiro, Brazil. Our analyses demonstrate that exposure to police violence is associated with a relative decline in reporting to the police vis-a-vis the hotline. We then estimate the causal effect of an exogenous decrease in access to the anonymous hotline. GBV reports to the hotline fell by 45%, but fewer than half of these estimated callers filed a police report instead. The areas where women were least likely to call the polic
+  Gender-based violence (GBV) is chronically underreported to law enforcement. Existing research emphasizes individual-level factors, but overlooks how broader police behavior shapes reporting. We argue that police violence has a dual effect by (1) discouraging reporting GBV to the police, while (2) shifting reporting towards third-party channels, when available. We link police records with anonymous call logs to an independent hotline to estimate the relationship between police violence and GBV reporting in Rio de Janeiro, Brazil. Our analyses demonstrate that exposure to police violence is associated with a relative decline in reporting to the police vis-a-vis the hotline. We then estimate the causal effect of an exogenous decrease in access to the anonymous hotline. GBV reports to the hotline fell by 45%, but fewer than half of these estimated callers filed a police report instead. The areas where women were least likely to call the police in the absence of the hotline were those with high police violence. Together these findings demonstrate that police violence incentivizes women to report to alternative channels or, in their absence, to stay silent.
+  </p>
+</details>
+
+---
+
+### The Politics of Organized Crime and Public Goods in Latin America  
+**With Eduardo Moncada**
+
+<details class="abstract">
+  <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
+  <p>
+  Research on public goods provision overwhelmingly centers the state, leaving aside how criminal organizations reshape access to goods and services in contexts of weak or contested state presence. Existing work on criminal governance emphasizes coercion and, to a lesser extent, the direct provision of goods by non-state armed actors. Yet we know far less about how criminal organizations intervene across the full chain of public-goods provision and how these interventions reconfigure everyday political practices, particularly citizen claim-making. This paper advances a relational and process-oriented account of criminal governance by theorizing and documenting how criminal actors shape public goods provision at multiple junctures of the state’s delivery pipeline, transforming state–society relations in many urban communities.
+
+  We argue that public goods provision unfolds through an interdependent pipeline—spanning production, distribution, delivery, monitoring, and accountability—that creates multiple points of entry to criminal actors. Criminal organizations exploit these vulnerabilities not only by acting as substitute providers but also by regulating territorial access, coercing or colluding with state and private actors, brokering citizens’ claims, and redirecting grievance resolution away from formal institutions. These interventions generate variation in who accesses public goods, under what conditions, and through which political channels. As such, criminal governance operates less by replacing the state than by reshaping how citizens interact with it.
+
+  Empirically, the paper draws on extensive fieldwork in Brazil and Mexico, including dozens of semi-structured interviews and focus groups with residents, community leaders, street-level bureaucrats, and local brokers conducted between 2023 and 2025. Additionally, we systematically code focus-group transcripts to capture (1) the primary provider of a given good or service (state, criminal organization, community, or private sector) and (2) the specific mechanisms through which criminal actors influence access. This coding strategy allows us to map criminal interventions across the public-goods pipeline and to trace how these interventions structure citizens’ claim-making strategies: direct versus brokered, individual versus collective, and state-targeted versus criminal-targeted.
+
+  The analysis identifies four ideal-typical configurations of provision. First, criminal organizations may act as primary providers, supplying security, dispute resolution, credit, or basic goods, and becoming direct targets of citizen claims. Second, communities may self-provision or coordinate collectively under criminal regulation, often relying on negotiated arrangements with criminal actors to secure access to state resources. Third, private actors may provide substitute goods through collusion with criminal organizations or through criminally owned “firms,” as seen in markets for water, transport, and internet access. Fourth, when the state remains the formal provider, criminal organizations frequently regulate territorial access, shape distributional priorities, and mediate (or suppress) citizens’ engagement with state institutions.
+
+  Across these configurations, criminal governance systematically reshapes the practice of citizenship. By constraining direct claims on the state, citizens living under criminal governance may need to channel demands through mediated or extra-institutional pathways. At the same time, criminal actors may selectively facilitate access to public goods when it aligns with their interests, including documented cases of coordinated infrastructure improvements and informal adjudication processes, such as internal “trials” to sanction perpetrators of gender-based violence.
+
+  The paper makes three core contributions. First, it intervenes in the literature on public goods provision by demonstrating that criminal organizations are central actors that shape service delivery across the entire provision pipeline, influencing production, distribution, and access even when the state remains formally responsible. Second, it advances research on criminal governance by adopting a bottom-up perspective that centers on citizens’ everyday political practices, showing how residents actively make claims in contexts of criminal rule. Third, the paper contributes to scholarship on citizenship and claim-making by challenging its state-centric assumptions, illustrating how citizenship is practiced and contested through simultaneous negotiations with both state and non-state actors.
+  </p>
+</details>
+
+---
+
+### Electoral Rules and the Provision of Public versus Targeted Goods: Evidence from Mayoral Elections in Brazil  
+*Working paper available upon request*
+
+<details class="abstract">
+  <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
+  <p>
+  This study examines how a single variation in electoral rules influences politicians’ investment in public and targeted goods. Using a unique threshold policy introduced in Brazil in 1988, I employ a regression discontinuity design to estimate the effect of a two-round election on the distribution and quality of targeted and public goods. The results show that single-round elections are associated with greater efforts to allocate targeted goods relative to single-round elections, but I only find marginal increases in the quality of public goods delivery by mayors. Counter to previous studies, it is unclear whether two-round elections are associated with greater effort to deliver public goods. The findings suggest that previous work has focused on too narrow a set of indicators to assess the effect of this particular type of electoral rule, overlooking its impact on targeted goods provision.
+  </p>
+</details>
+
+---
+
+### To Impeach or Not to Impeach: Elite Polarization, Mass Mobilization, and Corruption Scandals  
+**With Mahmoud Farag and Philipp Schemm**  
+*R&R at the European Political Science Review*
+
+<details class="abstract">
+  <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
+  <p>
+  Presidential impeachment has traditionally been seen as a clear manifestation of accountability. Recently, however, the impeachment of some presidents has led to public backlash, with some being regarded as “legislative coups.” In examining the determinants of impeachment, studies have highlighted the role played by corruption scandals, mass mobilization, and the absence of a legislative shield. We contribute to this literature by highlighting the importance of affective and ideological polarization for presidential impeachment. We theorize impeachment as a multi-hurdle process and focus on examining the determinants of overcoming two primary hurdles: a lower house vote (the first hurdle) and removal from office (the second hurdle). Using 44 successful and failed impeachments, we employ crisp-set qualitative comparative analysis (QCA) to examine this issue. The analysis supports our hypotheses, highlighting that many cases of impeachment cannot be explained unless polarization is taken into account. In particular, our analysis illustrates three types of impeachment: polarized impeachment, scandalized impeachment, and mobilized impeachment. The results withstand a wide range of robustness tests, including sensitivity ranges, consistency thresholds, fit-oriented robustness, and cluster analysis. Given the rise of affective polarization worldwide, presidential impeachment may be increasingly weaponized by polarized elites.
+  </p>
+</details>
+
+---
+
+## Research in Progress
+
+### The Paradox of Protection: Patterns of Gender-Based Violence in Gang-Controlled Areas  
+**With Johanna Reyes Ortega**
+
+<details class="abstract">
+  <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
+  <p>
+  This project assesses the impact of specialized judicial institutions on women's claim-making behavior across two major metropolitan areas in Latin America: the states of Mexico and São Paulo, both marked by strong criminal group presence and uneven state provision. Using a survey experiment informed by extensive fieldwork, the research examines how women in these settings choose to report gendered crimes, whether to formal authorities (e.g., police), criminal organizations, or non-governmental organizations, in municipalities with varying levels of state presence and judicial specialization.
+  </p>
+</details>
