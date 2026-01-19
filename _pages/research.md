@@ -30,7 +30,9 @@ Farag, M., Jung, H. R., Montini, I. C., Bourdeau de Fontenay, J., Ladhar, S. (20
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
   <p>
-  The power-sharing literature lacks a review that synthesizes its findings, despite spanning over 50 years since Arend Lijphart published his seminal 1969 article “Consociational Democracy”. This review article contributes to the literature by introducing and analysing an original dataset, the Power Sharing Articles Dataset, which extracts data on 23 variables from 373 academic articles published between 1969 and 2018. The power-sharing literature, our analysis shows, has
+  The power-sharing literature lacks a review that synthesizes its findings, despite spanning over 50 years since Arend Lijphart published his seminal 1969 article “Consociational Democracy”. This review article contributes to the literature by introducing and analysing an original dataset, the Power Sharing Articles Dataset, which extracts data on 23 variables from 373 academic articles published between 1969 and 2018. The power-sharing literature, our analysis shows, has witnessed a boom in publications in the last two decades, more than the average publication rate in the social sciences. This review offers a synthesis of how power sharing is theorized, operationalized, and studied. We demonstrate that power-sharing has generally positive effects, regardless of institutional set-up, post-conflict transitional character, and world region. Furthermore, we highlight structural factors that are mostly associated with the success of power sharing. Finally, the review develops a research agenda to guide future scholarly work on power-sharing.
+  </p>
+</details>
 
 ---
 
