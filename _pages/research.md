@@ -10,8 +10,8 @@ Here is a list of my publications, working papers, and current projects.
 ## Articles
 
 ### When Elections Empower Crime: Political Protection and Milícia Expansion in Rio de Janeiro  
-**With Bruno Pantaleão**  
-Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Political Protection and Milícia Expansion in Rio de Janeiro*. **Latin American Politics and Society**, 67(4), 1–23. https://doi.org/10.1017/lap.2025.10026  
+With Bruno Pantaleão  
+Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Political Protection and Milícia Expansion in Rio de Janeiro*. **Latin American Politics and Society**, 67(4), 1–23.  
 [Paper](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/74C5B7EDC5DBF1D85927EB90EB822CC0/S1531426X25100265a.pdf/when_elections_empower_crime_political_protection_and_milicia_expansion_in_rio_de_janeiro.pdf)
 
 <details class="abstract">
@@ -21,26 +21,23 @@ Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Politica
   </p>
 </details>
 
----
 
 ### What Do We Know about Power Sharing after 50 Years?  
-**With Mahmoud Farag, Hae Ran Jung, Juliette Bourdeau de Fontenay, and Satveer Ladhar** *(pre-doctoral)*  
-*Government and Opposition* 58(4), October 2023, pp. 899–920.  
+With Mahmoud Farag, Hae Ran Jung, Juliette Bourdeau de Fontenay, and Satveer Ladhar *(pre-doctoral)*  
+Farag, M., Jung, H. R., Montini, I. C., Bourdeau de Fontenay, J., Ladhar, S. (2023). *What Do We Know about Power Sharing after 50 Years?* **Government and Opposition**, 58(4), 899–920.  
 [Paper](https://doi.org/10.1017/gov.2022.26)
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
   <p>
-  The power-sharing literature lacks a review that synthesizes its findings, despite spanning over 50 years since Arend Lijphart published his seminal 1969 article “Consociational Democracy”. This review article contributes to the literature by introducing and analysing an original dataset, the Power Sharing Articles Dataset, which extracts data on 23 variables from 373 academic articles published between 1969 and 2018. The power-sharing literature, our analysis shows, has witnessed a boom in publications in the last two decades, more than the average publication rate in the social sciences. This review offers a synthesis of how power sharing is theorized, operationalized, and studied. We demonstrate that power-sharing has generally positive effects, regardless of institutional set-up, post-conflict transitional character, and world region. Furthermore, we highlight structural factors that are mostly associated with the success of power sharing. Finally, the review develops a research agenda to guide future scholarly work on power-sharing.
-  </p>
-</details>
+  The power-sharing literature lacks a review that synthesizes its findings, despite spanning over 50 years since Arend Lijphart published his seminal 1969 article “Consociational Democracy”. This review article contributes to the literature by introducing and analysing an original dataset, the Power Sharing Articles Dataset, which extracts data on 23 variables from 373 academic articles published between 1969 and 2018. The power-sharing literature, our analysis shows, has
 
 ---
 
 ## Working Papers
 
 ### Size Matters: Pork Politics and State Presence in Brazilian Municipalities  
-**With Alison E. Post**  
+With Alison E. Post  
 [Working paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5254477)
 
 <details class="abstract">
@@ -54,10 +51,9 @@ Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Politica
 - **[Folha de S.Paulo](https://www1.folha.uol.com.br/colunas/lara-mesquita/2025/06/quem-responde-pelo-uso-do-dinheiro-publico.shtml?pwgt=k76kkylo4lrwww02kl10duhgor4n8djy4kw7w59ldzi1uigy&utm_source=whatsapp&utm_medium=social&utm_campaign=compwagift)** — *Quem responde pelo uso do dinheiro público?* (June 2025)  
 - **[O Estado de S. Paulo](https://www.estadao.com.br/politica/deputados-ignoram-obras-grandes-e-dedicam-emendas-para-projetos-simples-e-de-impacto-limitado/)** — *Deputados ignoram obras grandes e dedicam emendas para projetos simples e de impacto limitado* (August 2025)
 
----
 
 ### Under the Radar: Estimating Underreporting of Gender-Based Violence to the Police  
-**With Jessie Trudeau**  
+With Jessie Trudeau 
 [Paper (PDF)](/files/under_the_radar.pdf)  
 [Policy brief (PDF)](/files/under_the_radar_policy_brief.pdf)
 
@@ -68,29 +64,22 @@ Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Politica
   </p>
 </details>
 
----
 
 ### The Politics of Organized Crime and Public Goods in Latin America  
-**With Eduardo Moncada**
+With Eduardo Moncada
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
   <p>
   Research on public goods provision overwhelmingly centers the state, leaving aside how criminal organizations reshape access to goods and services in contexts of weak or contested state presence. Existing work on criminal governance emphasizes coercion and, to a lesser extent, the direct provision of goods by non-state armed actors. Yet we know far less about how criminal organizations intervene across the full chain of public-goods provision and how these interventions reconfigure everyday political practices, particularly citizen claim-making. This paper advances a relational and process-oriented account of criminal governance by theorizing and documenting how criminal actors shape public goods provision at multiple junctures of the state’s delivery pipeline, transforming state–society relations in many urban communities.
-
-  We argue that public goods provision unfolds through an interdependent pipeline—spanning production, distribution, delivery, monitoring, and accountability—that creates multiple points of entry to criminal actors. Criminal organizations exploit these vulnerabilities not only by acting as substitute providers but also by regulating territorial access, coercing or colluding with state and private actors, brokering citizens’ claims, and redirecting grievance resolution away from formal institutions. These interventions generate variation in who accesses public goods, under what conditions, and through which political channels. As such, criminal governance operates less by replacing the state than by reshaping how citizens interact with it.
-
-  Empirically, the paper draws on extensive fieldwork in Brazil and Mexico, including dozens of semi-structured interviews and focus groups with residents, community leaders, street-level bureaucrats, and local brokers conducted between 2023 and 2025. Additionally, we systematically code focus-group transcripts to capture (1) the primary provider of a given good or service (state, criminal organization, community, or private sector) and (2) the specific mechanisms through which criminal actors influence access. This coding strategy allows us to map criminal interventions across the public-goods pipeline and to trace how these interventions structure citizens’ claim-making strategies: direct versus brokered, individual versus collective, and state-targeted versus criminal-targeted.
-
-  The analysis identifies four ideal-typical configurations of provision. First, criminal organizations may act as primary providers, supplying security, dispute resolution, credit, or basic goods, and becoming direct targets of citizen claims. Second, communities may self-provision or coordinate collectively under criminal regulation, often relying on negotiated arrangements with criminal actors to secure access to state resources. Third, private actors may provide substitute goods through collusion with criminal organizations or through criminally owned “firms,” as seen in markets for water, transport, and internet access. Fourth, when the state remains the formal provider, criminal organizations frequently regulate territorial access, shape distributional priorities, and mediate (or suppress) citizens’ engagement with state institutions.
-
-  Across these configurations, criminal governance systematically reshapes the practice of citizenship. By constraining direct claims on the state, citizens living under criminal governance may need to channel demands through mediated or extra-institutional pathways. At the same time, criminal actors may selectively facilitate access to public goods when it aligns with their interests, including documented cases of coordinated infrastructure improvements and informal adjudication processes, such as internal “trials” to sanction perpetrators of gender-based violence.
-
+  </p>
+  We argue that public goods provision unfolds through an interdependent pipeline—spanning production, distribution, delivery, monitoring, and accountability—that creates multiple points of entry to criminal actors. Criminal organizations exploit these vulnerabilities not only by acting as substitute providers but also by regulating territorial access, coercing or colluding with state and private actors, brokering citizens’ claims, and redirecting grievance resolution away from formal institutions. These interventions generate variation in who accesses public goods, under what conditions, and through which political channels. As such, criminal governance operates less by replacing the state than by reshaping how citizens interact with it. Empirically, the paper draws on extensive fieldwork in Brazil and Mexico, including dozens of semi-structured interviews and focus groups with residents, community leaders, street-level bureaucrats, and local brokers conducted between 2023 and 2025. Additionally, we systematically code focus-group transcripts to capture (1) the primary provider of a given good or service (state, criminal organization, community, or private sector) and (2) the specific mechanisms through which criminal actors influence access. This coding strategy allows us to map criminal interventions across the public-goods pipeline and to trace how these interventions structure citizens’ claim-making strategies: direct versus brokered, individual versus collective, and state-targeted versus criminal-targeted.
+  </p>
+  The analysis identifies four ideal-typical configurations of provision. First, criminal organizations may act as primary providers, supplying security, dispute resolution, credit, or basic goods, and becoming direct targets of citizen claims. Second, communities may self-provision or coordinate collectively under criminal regulation, often relying on negotiated arrangements with criminal actors to secure access to state resources. Third, private actors may provide substitute goods through collusion with criminal organizations or through criminally owned “firms,” as seen in markets for water, transport, and internet access. Fourth, when the state remains the formal provider, criminal organizations frequently regulate territorial access, shape distributional priorities, and mediate (or suppress) citizens’ engagement with state institutions. Across these configurations, criminal governance systematically reshapes the practice of citizenship. By constraining direct claims on the state, citizens living under criminal governance may need to channel demands through mediated or extra-institutional pathways. At the same time, criminal actors may selectively facilitate access to public goods when it aligns with their interests, including documented cases of coordinated infrastructure improvements and informal adjudication processes, such as internal “trials” to sanction perpetrators of gender-based violence.
+  </p>
   The paper makes three core contributions. First, it intervenes in the literature on public goods provision by demonstrating that criminal organizations are central actors that shape service delivery across the entire provision pipeline, influencing production, distribution, and access even when the state remains formally responsible. Second, it advances research on criminal governance by adopting a bottom-up perspective that centers on citizens’ everyday political practices, showing how residents actively make claims in contexts of criminal rule. Third, the paper contributes to scholarship on citizenship and claim-making by challenging its state-centric assumptions, illustrating how citizenship is practiced and contested through simultaneous negotiations with both state and non-state actors.
   </p>
 </details>
-
----
 
 ### Electoral Rules and the Provision of Public versus Targeted Goods: Evidence from Mayoral Elections in Brazil  
 *Working paper available upon request*
@@ -102,10 +91,9 @@ Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Politica
   </p>
 </details>
 
----
 
 ### To Impeach or Not to Impeach: Elite Polarization, Mass Mobilization, and Corruption Scandals  
-**With Mahmoud Farag and Philipp Schemm**  
+With Mahmoud Farag and Philipp Schemm 
 *R&R at the European Political Science Review*
 
 <details class="abstract">
@@ -120,7 +108,7 @@ Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Politica
 ## Research in Progress
 
 ### The Paradox of Protection: Patterns of Gender-Based Violence in Gang-Controlled Areas  
-**With Johanna Reyes Ortega**
+With Johanna Reyes Ortega
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
