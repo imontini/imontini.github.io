@@ -40,6 +40,7 @@ Farag, M., Jung, H. R., Montini, I. C., Bourdeau de Fontenay, J., & Ladhar, S. (
 
 ### To Impeach or Not to Impeach: Elite Polarization, Mass Mobilization, and Corruption Scandals  
 With Mahmoud Farag and Philipp Schemm  *(pre-doctoral)*
+
 *Forthcoming at the European Political Science Review*
 
 <details class="abstract">
@@ -94,7 +95,6 @@ With Eduardo Moncada
 </p>
 Research on public goods provision remains strikingly state-centric, even though millions of urban residents access goods and services in territories where criminal organizations exercise governing authority. Existing scholarship on criminal governance emphasizes coercion and, occasionally, direct service provision by non-state armed actors. Missing is a broader framework for understanding how criminal organizations structure the modes through which public goods are provided and how these arrangements reshape citizen-claim-making. We develop a typology of public goods provision under criminal governance along two dimensions: the type of good that is being provided (“one-shot” vs. “durable” goods) and the structure of territorial control (from contested to monopolistic criminal governance). Crossing these dimensions yields four distinct outcomes that capture the role criminal organizations assume vis-à-vis the state: consistent substitution, episodic substitution, consistent intermediation, and episodic intermediation. The framework specifies the pathways through which criminal governance shapes public goods provision and demonstrates how these interventions generate systematic variation in both access to services and the strategies residents use to pursue them. Rather than replacing the state, criminal governance reorganizes the institutional channels through which goods flow and grievances are addressed. We ground the typology in extensive fieldwork in São Paulo and Mexico City, drawing on qualitative interviews and focus group discussions. By linking criminal governance to variation in service delivery and citizen claim-making, the paper bridges literatures on public goods provision and non-state armed governance.
 </p>
-
 </details>
 
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
