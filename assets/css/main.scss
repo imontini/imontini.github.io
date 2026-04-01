@@ -264,6 +264,26 @@ hr {
   letter-spacing: 0.02em;
 }
 
+// --- Disable dark mode ---
+// Hide the toggle button
+#theme-toggle { display: none !important; }
+
+// Force light theme variables even if data-theme="dark" is set
+html[data-theme="dark"] {
+  --global-bg-color              : #ffffff !important;
+  --global-text-color            : #3d4144 !important;
+  --global-text-color-light      : #898c8f !important;
+  --global-border-color          : #f2f3f3 !important;
+  --global-link-color            : #003262 !important;
+  --global-link-color-hover      : #00264d !important;
+  --global-link-color-visited    : #1a4a7a !important;
+  --global-masthead-link-color   : rgba(255,255,255,0.82) !important;
+  --global-masthead-link-color-hover: #ffffff !important;
+  --global-code-background-color : #fafafa !important;
+  --global-code-text-color       : #3d4144 !important;
+  --global-thead-color           : #f2f3f3 !important;
+}
+
 // ----------------------------
 // Custom gallery styles
 // ----------------------------
