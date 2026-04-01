@@ -67,17 +67,20 @@ p, li, dl {
 }
 
 // --- Masthead / Nav bar ---
-.masthead {
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.masthead__menu-item {
   background: #1a1a2e !important;
+  background-color: #1a1a2e !important;
+}
+
+.masthead {
   border-bottom: none !important;
 
   &::after {
     display: none !important;
   }
-}
-
-.masthead__inner-wrap {
-  background: #1a1a2e !important;
 }
 
 // Site title (first nav item, bold)
@@ -111,11 +114,12 @@ p, li, dl {
 
 // Hidden links dropdown (mobile)
 .greedy-nav .hidden-links {
-  background: #1a1a2e;
+  background: #1a1a2e !important;
   border: 1px solid rgba(255,255,255,0.1);
 
   a {
     color: rgba(255,255,255,0.82) !important;
+    background: #1a1a2e !important;
     &:hover { color: #ffffff !important; }
   }
 }
@@ -130,10 +134,20 @@ p, li, dl {
   font-family: 'Inter', sans-serif;
 }
 
+.author__avatar {
+  width: 100% !important;
+  margin-bottom: 10px;
+}
+
 .author__avatar img {
+  width: 100% !important;
+  max-width: 160px !important;
+  height: auto !important;
   border-radius: 8px !important;
   border: none !important;
   box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+  display: block;
+  margin: 0 auto;
 }
 
 .author__name,
