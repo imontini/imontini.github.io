@@ -7,12 +7,11 @@ author_profile: true
 
 Here is a list of my publications, working papers, and current projects.
 
-## Publications
+<h2 style="color: #003262; border-bottom: 2px solid #003262; padding-bottom: 0.3em; margin-top: 2em;">Publications</h2>
 
 ### When Elections Empower Crime: Political Protection and Milícia Expansion in Rio de Janeiro
-With Bruno Pantaleão
-Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Political Protection and Milícia Expansion in Rio de Janeiro*. **Latin American Politics and Society**, 67(4), 1–23.
-[Paper](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/74C5B7EDC5DBF1D85927EB90EB822CC0/S1531426X25100265a.pdf/when_elections_empower_crime_political_protection_and_milicia_expansion_in_rio_de_janeiro.pdf)
+(with Bruno Pantaleão)
+Pantaleão, B., & Montini, I. C. (2025). *Latin American Politics and Society*, 67(4), 1–23. <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/74C5B7EDC5DBF1D85927EB90EB822CC0/S1531426X25100265a.pdf/when_elections_empower_crime_political_protection_and_milicia_expansion_in_rio_de_janeiro.pdf">[Paper]</a>
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
@@ -23,9 +22,8 @@ Pantaleão, B., & Montini, I. C. (2025). *When Elections Empower Crime: Politica
 
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
 
-### To Impeach or Not to Impeach: Elite Polarization, Mass Mobilization, and Corruption Scandals
-With Mahmoud Farag and Philipp Schemm  *(pre-doctoral)*
-
+### Overcoming Impeachment Hurdles: Elite Polarization, Mass Mobilization, and Corruption Scandals
+(with Mahmoud Farag and Philipp Schemm) *(pre-doctoral)*
 *Forthcoming at the European Political Science Review*
 
 <details class="abstract">
@@ -37,10 +35,9 @@ With Mahmoud Farag and Philipp Schemm  *(pre-doctoral)*
 
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
 
-### What Do We Know about Power Sharing after 50 Years?
-With Mahmoud Farag, Hae Ran Jung, Juliette Bourdeau de Fontenay, and Satveer Ladhar *(pre-doctoral)*
-Farag, M., Jung, H. R., Montini, I. C., Bourdeau de Fontenay, J., & Ladhar, S. (2023). *What Do We Know about Power Sharing after 50 Years?* **Government and Opposition**, 58(4), 899–920.
-[Paper](https://doi.org/10.1017/gov.2022.26)
+### Modalities of Power Sharing: Consociationalism after 50 Years — A Scoping Review (1969–2018)
+(with Mahmoud Farag, Hae Ran Jung, Juliette Bourdeau de Fontenay, and Satveer Ladhar) *(pre-doctoral)*
+Farag, M., Jung, H. R., Montini, I. C., Bourdeau de Fontenay, J., & Ladhar, S. (2023). *Government and Opposition*, 58(4), 899–920. <a href="https://doi.org/10.1017/gov.2022.26">[Paper]</a>
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
@@ -49,15 +46,19 @@ Farag, M., Jung, H. R., Montini, I. C., Bourdeau de Fontenay, J., & Ladhar, S. (
   </p>
 </details>
 
-<hr style="border:0;border-top:2px solid rgba(0,0,0,0.18); margin: 2.25rem 0;">
+<h2 style="color: #003262; border-bottom: 2px solid #003262; padding-bottom: 0.3em; margin-top: 2em;">Dissertation Project</h2>
 
+**Contested Governance, Contested Claims: The Politics of Claim-Making in Urban Peripheries**
 
+My dissertation examines citizen claim-making in Brazilian *favelas*, where state and criminal actors compete for authority. Across urban peripheries of the Global South, residents navigate a governance paradox: although the state formally governs, effective control is often shared with non-state actors who regulate daily life, resolve disputes, and provide services. My project asks how residents strategically decide when, how, and to whom to voice demands in this environment. Drawing on fieldwork in São Paulo and Maranhão, administrative and geospatial data, and an original survey with embedded experiments, I show that citizens select among multiple authorities based on the nature of the claim and the risks it entails. For example, service claims related to basic infrastructure (e.g., water, paved road) are more likely to be directed to state actors, while women seek help from non-state actors for gender-based violence. These findings demonstrate how both the demand and the supply sides of governance function in contexts where the state does not hold a monopoly over coercion or provision.
 
-## Working Papers
+*Committee: Alison Post (co-chair), Scott Straus (co-chair), Thad Dunning and Hillel Soifer*
+
+<h2 style="color: #003262; border-bottom: 2px solid #003262; padding-bottom: 0.3em; margin-top: 2em;">Working Papers</h2>
 
 ### Size Matters: Pork Politics and State Presence in Brazilian Municipalities
-With Alison E. Post
-[Working paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5254477)
+(with Alison E. Post)
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5254477">[Working Paper]</a>
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
@@ -73,9 +74,8 @@ With Alison E. Post
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
 
 ### Under the Radar: Estimating Underreporting of Gender-Based Violence to the Police
-With Jessie Trudeau
-[Paper (PDF)](/files/under_the_radar.pdf)
-[Policy brief (PDF)](/files/under_the_radar_policy_brief.pdf)
+(with Jessie Trudeau)
+<a href="/files/under_the_radar.pdf">[Working Paper]</a> &nbsp; <a href="/files/under_the_radar_policy_brief.pdf">[Policy Brief]</a>
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
@@ -87,7 +87,7 @@ With Jessie Trudeau
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
 
 ### Electoral Rules and the Provision of Public versus Targeted Goods: Evidence from Mayoral Elections in Brazil
-*Working paper available upon request*
+[Working Paper available upon request]
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
@@ -99,8 +99,8 @@ With Jessie Trudeau
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
 
 ### Bringing the State Back In? The Decline of Criminal Service Provision in Rio de Janeiro
-With Jessie Trudeau and David Becerra Medina
-*Working paper available upon request*
+(with Jessie Trudeau and David Becerra Medina)
+[Working Paper available upon request]
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
@@ -111,8 +111,9 @@ With Jessie Trudeau and David Becerra Medina
 
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
 
-### The Politics of Organized Crime and Public Goods in Latin America
-With Eduardo Moncada
+### Criminal Governance and Public Goods Provision: A Framework for Analysis
+(with Eduardo Moncada)
+[Manuscript in preparation]
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
@@ -121,13 +122,11 @@ With Eduardo Moncada
   </p>
 </details>
 
-<hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
-
-
-## Research in Progress
+<h2 style="color: #003262; border-bottom: 2px solid #003262; padding-bottom: 0.3em; margin-top: 2em;">Research in Progress</h2>
 
 ### The Paradox of Protection: Patterns of Gender-Based Violence in Gang-Controlled Areas
-With Johanna Reyes Ortega
+(with Johanna Reyes Ortega)
+[Data collection ongoing]
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
