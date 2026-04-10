@@ -75,7 +75,7 @@ My dissertation examines citizen claim-making in Brazilian *favelas*, where stat
 
 ### Under the Radar: Estimating Underreporting of Gender-Based Violence to the Police
 (with Jessie Trudeau)
-<a href="/files/under_the_radar.pdf">[Working Paper]</a> &nbsp; <a href="/files/under_the_radar_policy_brief.pdf">[Policy Brief]</a>
+<a href="/files/under_the_radar.pdf">[Working Paper]</a> &nbsp; <a href="/files/under_the_radar_policy_brief.pdf">[Policy Brief]</a> &nbsp; <a href="/files/EGEN_Poster_Montini_Trudeau.pdf">[Poster]</a>
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
