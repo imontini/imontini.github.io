@@ -70,6 +70,7 @@ My dissertation examines citizen claim-making in Brazilian *favelas*, where stat
 **In the news**
 - **[Folha de S.Paulo](https://www1.folha.uol.com.br/colunas/lara-mesquita/2025/06/quem-responde-pelo-uso-do-dinheiro-publico.shtml?pwgt=k76kkylo4lrwww02kl10duhgor4n8djy4kw7w59ldzi1uigy&utm_source=whatsapp&utm_medium=social&utm_campaign=compwagift)** — *Quem responde pelo uso do dinheiro público?* (June 2025)
 - **[O Estado de S. Paulo](https://www.estadao.com.br/politica/deputados-ignoram-obras-grandes-e-dedicam-emendas-para-projetos-simples-e-de-impacto-limitado/)** — *Deputados ignoram obras grandes e dedicam emendas para projetos simples e de impacto limitado* (August 2025)
+- **[Folha de S.Paulo](https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/05/o-limite-eleitoral-das-emendas-orcamentarias.shtml)** — *O limite eleitoral das emendas parlamentares* (May 2026)
 
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
 
