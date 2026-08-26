@@ -76,12 +76,12 @@ My dissertation examines citizen claim-making in Brazilian *favelas*, where stat
 
 ### Under the Radar: Estimating Underreporting of Gender-Based Violence to the Police
 (with Jessie Trudeau)
-<a href="/files/under_the_radar.pdf">[Working Paper]</a> &nbsp; <a href="/files/under_the_radar_policy_brief.pdf">[Policy Brief]</a> &nbsp; <a href="/files/EGEN_Poster_Montini_Trudeau.pdf">[Poster]</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7284178">[Working Paper]</a>&nbsp; <a href="/files/under_the_radar_policy_brief.pdf">[Policy Brief]</a> &nbsp; <a href="/files/EGEN_Poster_Montini_Trudeau.pdf">[Poster]</a>
 
 <details class="abstract">
   <summary><span class="btn btn--primary btn--small">Abstract</span></summary>
   <p>
-  Gender-based violence (GBV) is chronically underreported to law enforcement. Existing research emphasizes individual-level factors, but overlooks how broader police behavior shapes reporting. We argue that police violence has a dual effect by (1) discouraging reporting GBV to the police, while (2) shifting reporting towards third-party channels, when available. We link police records with anonymous call logs to an independent hotline to estimate the relationship between police violence and GBV reporting in Rio de Janeiro, Brazil. Our analyses demonstrate that exposure to police violence is associated with a relative decline in reporting to the police vis-à-vis the hotline. We then estimate the causal effect of an exogenous decrease in access to the anonymous hotline. GBV reports to the hotline fell by 45%, but fewer than half of these estimated callers filed a police report instead. The areas where women were least likely to call the police in the absence of the hotline were those with high police violence. Together, these findings demonstrate that police violence incentivizes women to report to alternative channels or, in their absence, to stay silent.
+	A fundamental component of citizenship includes seeking protection from crime and violence. How do citizens make such claims to law enforcement when the police themselves are often predatory? The core argument is that police predation (1) discourages citizens from reporting crimes directly to the police while (2) shifting reporting towards intermediated channels. We argue that trust is the mechanism driving this reporting behavior. To test our theory, we focus on the reporting of violence against women (VAW) in Rio de Janeiro, Brazil. We build an original database of reports to the police and to an intermediary (an independent hotline), then conduct descriptive and causal tests to show that exposure to police violence redirects reporting from the police to the intermediated hotline. Together, these findings bring together the claim-making and policing literatures to demonstrate that police violence incentivizes citizens to report VAW to alternative channels and, in their absence, to stay silent.
   </p>
 </details>
 
@@ -112,7 +112,7 @@ My dissertation examines citizen claim-making in Brazilian *favelas*, where stat
 
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
 
-### Criminal Governance and Public Goods Provision: A Framework for Analysis
+### Crminalized Public Goods Provision
 (with Eduardo Moncada)
 [Manuscript in preparation]
 
