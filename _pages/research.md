@@ -46,31 +46,11 @@ Farag, M., Jung, H. R., Montini, I. C., Bourdeau de Fontenay, J., & Ladhar, S. (
   </p>
 </details>
 
-<h2 style="color: #003262; border-bottom: 2px solid #003262; padding-bottom: 0.3em; margin-top: 2em;">Book Project</h2>
+<h2 style="color: #003262; border-bottom: 2px solid #003262; padding-bottom: 0.3em; margin-top: 2em;">Dissertation Project</h2>
 
 **Contested Governance, Contested Claims: The Politics of Claim-Making in Urban Peripheries**
 
-Nearly one in four Brazilians lives in a neighborhood where a criminal organization regulates daily life alongside the state. In these urban peripheries, gangs adjudicate disputes, punish theft, and broker access to services, while the police, the courts, and the municipal bureaucracy remain within reach. For residents, deciding whom to ask for help is a daily political act. This book asks:
-
-- What does it mean to be a citizen when the state is not the only authority in a territory?
-- How do residents choose among the authorities that claim to serve them?
-- What happens to democratic citizenship when claims are routed away from the state?
-
-<details class="abstract">
-  <summary><span class="btn btn--primary btn--small">Book summary</span></summary>
-  <p>
-Claim-making—articulating a grievance and demanding that a responsible authority act—is a central practice of democratic citizenship. A rich literature documents how residents of the Global South petition an inattentive state, but it assumes that the target of a claim is the state itself. This book instead treats the target of a claim as an empirical question. I develop a theory of claim-making under contested authority, a condition in which no single actor monopolizes coercion or service provision. I conceptualize claim-making as a process in three stages: deciding to act on a problem, selecting an authority, and choosing whether to approach it directly or through an intermediary. The central argument is that the policy area of a problem sorts claims across authorities through three mechanisms: legitimacy (who ought to act), competence (who is likely to resolve it), and risk (what it costs to ask). Capital-intensive services such as piped water remain with the state, while security problems, where criminal organizations hold informational and coercive advantages, pull claims toward them. Residents' personal ties to an authority and the consolidation of criminal control condition how strongly this sorting operates.
-  </p>
-  <p>
-The book proceeds in three parts. Part I develops the theory and introduces São Paulo, where the hegemonic authority of the PCC coexists with a dense municipal bureaucracy. Part II follows the claim-making process in São Paulo's favelas. It shows that state-directed claims thin out where criminal authority is strongest, that this gap reflects rerouted rather than absent claims, and that residents select among the state, the gang, and neighborhood associations according to the problem, the place, and their relationships. Part III turns to Maranhão, where rival factions divide the cities. There, criminal presence without consolidated authority rarely makes the gang a target of claims, but it raises the cost of collective claim-making, as community leaders are threatened and killed.
-  </p>
-  <p>
-The book draws on fieldwork in Brazilian urban peripheries between 2024 and 2026, including more than 60 interviews and focus groups in São Paulo and São Luís. It combines this qualitative evidence with roughly nine million georeferenced claims to São Paulo's municipal complaint platform, an online survey of 514 low-income residents of São Paulo and Rio de Janeiro, and two pre-registered face-to-face surveys with embedded vignette experiments: one with 2,013 favela residents in São Paulo and one with 2,009 residents of São Luís and Caxias. The comparison between São Paulo and Maranhão holds national institutions constant while varying the structure of criminal authority from consolidated to fragmented.
-  </p>
-  <p>
-The book makes three contributions. First, it extends frameworks of hybrid governance and service delivery to actors that operate outside legality. Second, it shifts the study of criminal governance from the governors to the governed, theorizing criminal governance from the demand side and providing, to my knowledge, the first experimental evidence on how residents select among competing authorities. Third, it de-centers the state in the theory of claim-making. Residents under contested authority do not claim less; they claim elsewhere, and on terms they cannot set. Citizenship is reconfigured rather than diminished, but unequally, and instruments that observe only citizen–state interactions mismeasure both the demand for public goods and the reach of the state meant to supply it.
-  </p>
-</details>
+**Committee:** Alison Post (co-chair), Scott Straus (co-chair), Thad Dunning, and Hillel Soifer
 
 <hr style="border:0;border-top:1px solid rgba(0,0,0,0.12); margin: 1.25rem 0;">
 
